@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
-    "production": "pm2 start src/index.js --name todo-api"
+    "production": "pm2 start src/index.js --name todo-list-api"
   },
   "keywords": [],
   "author": "",
